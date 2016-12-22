@@ -9,6 +9,5 @@ Bootstrap(Html, Css e JS) e Jquery(JS e JSUI).
 
 PHP: um aditivo para ilustrar conceito básico de orientação a objeto como:
 
-Classes e encapsolamento.
+Classes e encapsulamento.
 
-By Manuel Nanque
